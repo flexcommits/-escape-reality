@@ -1,0 +1,42 @@
+@-ms-viewport{
+  width: device-width;
+}
+
+.body {
+  background-color: #907A70;
+  font-family: 'Orbitron', sans-serif !important;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.fancyText {
+  font-family: 'Orbitron', sans-serif !important;
+}
+
+.centerText {
+  font-family: 'Orbitron', sans-serif !important;
+  font-size: 30px !important;
+  text-align: center !important;
+}
+
+.centerButtons {
+  margin: 0 auto !important;
+  width: 50% !important;
+  text-align: center !important;
+}
+
+h1 {
+  text-align: center;
+}
+
+button.vex-dialog-button-primary.vex-dialog-button.vex-first {
+  background-color: #FF3D00 !important;
+  color:white !important;
+}
+
+div.vex-content {
+  border-top: 20px solid #00BCD4 !important;
+}
+
